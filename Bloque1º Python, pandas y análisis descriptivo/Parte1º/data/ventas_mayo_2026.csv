@@ -1,0 +1,511 @@
+fecha,cliente_id,categoria,region,canal,unidades,precio_unitario,importe
+2026-05-07,1638,Ropa,Norte,Online,11,333.46,3668.06
+2026-05-20,1154,Alimentación,Oeste,Online,4,295.53,1182.12
+2026-05-29,1489,Ropa,Norte,Tienda física,8,148.47,1187.76
+2026-05-15,1385,Alimentación,Norte,Online,7,282.34,1976.38
+2026-05-11,1985,Hogar,Este,Online,5,164.13,820.65
+2026-05-08,1784,Electrónica,Centro,Tienda física,10,381.63,3816.3
+2026-05-29,1103,Electrónica,Oeste,Tienda física,10,387.15,3871.5
+2026-05-21,1928,Electrónica,Norte,Tienda física,12,163.19,1958.28
+2026-05-07,1392,Electrónica,Este,Marketplace,8,343.15,2745.2
+2026-05-26,1810,Electrónica,Este,Tienda física,14,311.5,4361.0
+2026-05-19,1245,Alimentación,Oeste,Tienda física,9,130.9,1178.1
+2026-05-23,1175,Hogar,Oeste,Online,5,100.5,502.5
+2026-05-11,1038,Alimentación,Sur,Tienda física,10,,1464.79
+2026-05-11,1476,Deportes,Este,Online,5,314.73,1573.65
+2026-05-24,1681,Hogar,Este,Marketplace,2,384.47,768.94
+2026-05-21,1758,Alimentación,Centro,Marketplace,5,307.8,1539.0
+2026-05-04,1537,Alimentación,Este,Tienda física,3,343.53,1030.59
+2026-05-08,1866,Ropa,Este,Online,7,245.2,1716.4
+2026-05-24,1817,Electrónica,Sur,Marketplace,10,335.81,3358.1
+2026-05-03,1920,Electrónica,Este,Tienda física,5,315.92,1579.6
+2026-05-22,1407,Ropa,Centro,Online,8,157.02,1256.16
+2026-05-21,1524,Ropa,Este,Online,1,225.28,225.28
+2026-05-02,1827,Electrónica,Oeste,Tienda física,3,323.85,971.55
+2026-05-24,1505,Deportes,Oeste,Online,3,27.96,83.88
+2026-05-12,1902,Alimentación,Este,Marketplace,9,325.15,2926.35
+2026-05-30,1824,Electrónica,Este,Online,5,79.38,396.9
+2026-05-06,1035,Ropa,Centro,Online,12,210.73,2528.76
+2026-05-02,1684,Electrónica,Sur,Marketplace,9,325.23,2927.07
+2026-05-28,1019,Hogar,Este,Online,13,108.99,1416.87
+2026-05-21,1320,Hogar,,Tienda física,9,,141.35
+2026-05-01,1775,Alimentación,Norte,Online,1,167.08,167.08
+2026-05-12,1511,Ropa,Norte,Online,2,358.91,717.82
+2026-05-26,1399,Alimentación,Sur,Tienda física,5,10.17,50.85
+2026-05-22,1653,Deportes,Centro,Tienda física,4,361.54,1446.16
+2026-05-29,1971,Electrónica,Norte,Tienda física,10,69.98,699.8
+2026-05-12,1882,Alimentación,Norte,Tienda física,9,396.13,3565.17
+2026-05-25,1470,Hogar,Norte,Tienda física,7,382.39,2676.73
+2026-05-17,1142,Hogar,Norte,Online,6,202.92,1217.52
+2026-05-27,1091,Ropa,Norte,Online,7,209.96,1469.72
+2026-05-27,1353,Alimentación,Este,Marketplace,1,197.8,197.8
+2026-05-31,1833,Hogar,Este,Tienda física,1,257.82,257.82
+2026-05-10,1799,Alimentación,Sur,Tienda física,8,45.38,363.04
+2026-05-28,1726,Deportes,Sur,Online,13,22.72,295.36
+2026-05-28,1958,Hogar,Norte,Online,13,32.5,422.5
+2026-05-16,1853,Deportes,Sur,Tienda física,2,183.3,366.6
+2026-05-15,1050,Hogar,Este,Marketplace,12,117.46,1409.52
+2026-05-30,1664,Hogar,Oeste,Tienda física,10,252.6,2526.0
+2026-05-30,1697,Hogar,Norte,Marketplace,11,397.05,4367.55
+2026-05-15,1574,Electrónica,Este,Tienda física,9,160.67,1446.03
+2026-05-30,1189,Alimentación,Sur,Online,7,233.8,1636.6
+2026-05-19,1124,Hogar,Centro,Online,6,172.09,1032.54
+2026-05-12,1149,Hogar,Oeste,Online,1,340.44,340.44
+2026-05-23,1313,Deportes,Este,Online,1,361.87,361.87
+2026-05-20,1569,Ropa,Sur,Marketplace,2,352.17,704.34
+2026-05-25,1341,Hogar,Centro,Tienda física,6,390.01,2340.06
+2026-05-03,1304,Alimentación,Norte,Tienda física,14,20.73,290.22
+2026-05-05,1691,Alimentación,Norte,Online,6,337.53,2025.18
+2026-05-19,1681,Hogar,Sur,Online,2,303.19,606.38
+2026-05-07,1837,Alimentación,Norte,Online,1,99.19,99.19
+2026-05-21,1782,Alimentación,,Online,10,382.96,3829.6
+2026-05-09,1053,Electrónica,Centro,Tienda física,5,67.79,338.95
+2026-05-07,1443,Electrónica,Sur,Online,5,275.02,1375.1
+2026-05-18,1612,Hogar,Este,Tienda física,2,97.71,195.42
+2026-05-04,1992,Ropa,,Online,6,178.24,1069.44
+2026-05-25,1263,Electrónica,Centro,Online,9,290.47,2614.23
+2026-05-28,1052,Hogar,Oeste,Online,2,229.7,459.4
+2026-05-14,1571,Ropa,Centro,Tienda física,10,176.73,1767.3
+2026-05-18,1619,Hogar,,Tienda física,2,137.27,274.54
+2026-05-26,1004,Hogar,Oeste,Online,3,337.47,1012.41
+2026-05-09,1102,Hogar,Norte,Online,13,66.09,859.17
+2026-05-26,1195,Ropa,Sur,Tienda física,7,177.74,1244.18
+2026-05-21,1773,Alimentación,Centro,Online,6,362.47,2174.82
+2026-05-02,1876,Electrónica,Sur,Online,12,339.88,4078.56
+2026-05-20,1991,Alimentación,Centro,Marketplace,8,166.37,1330.96
+2026-05-28,1883,Ropa,Norte,Tienda física,8,307.61,2460.88
+2026-05-15,1349,Deportes,Norte,Online,6,331.03,1986.18
+2026-05-28,1046,Hogar,Sur,Marketplace,12,356.67,4280.04
+2026-05-07,1866,Deportes,Norte,Tienda física,11,222.36,2445.96
+2026-05-12,1822,Hogar,,Online,10,89.74,897.4
+2026-05-29,1935,Electrónica,Centro,Tienda física,3,109.57,328.71
+2026-05-08,1819,Alimentación,Centro,Tienda física,3,125.32,375.96
+2026-05-15,1655,Ropa,Oeste,Online,1,241.58,241.58
+2026-05-03,1268,Ropa,Norte,Online,7,22.8,159.6
+2026-05-14,1369,Electrónica,Este,Online,5,258.06,1290.3
+2026-05-17,1635,Hogar,Este,Tienda física,4,152.1,608.4
+2026-05-04,1105,Hogar,Este,Online,10,125.14,1251.4
+2026-05-18,1669,Ropa,Sur,Marketplace,4,,1426.0
+2026-05-08,1658,Deportes,Este,Tienda física,14,189.4,2651.6
+2026-05-04,1656,Electrónica,Este,Online,4,,1022.86
+2026-05-02,1119,Ropa,,Tienda física,6,332.43,1994.58
+2026-05-30,1830,Ropa,Centro,Online,8,28.58,228.64
+2026-05-06,1786,Electrónica,Este,Tienda física,8,293.43,2347.44
+2026-05-22,1603,Hogar,Oeste,Tienda física,5,311.82,1559.1
+2026-05-10,1057,Alimentación,Oeste,Online,6,147.52,885.12
+2026-05-04,1950,Hogar,Norte,Tienda física,4,331.67,1326.68
+2026-05-22,1345,Electrónica,Centro,Online,12,211.11,2533.32
+2026-05-29,1740,Ropa,Centro,Online,14,190.68,2669.52
+2026-05-31,1473,Electrónica,Este,Online,11,27.71,304.81
+2026-05-18,1116,Deportes,Sur,Online,13,123.11,1600.43
+2026-05-26,1829,Electrónica,Sur,Marketplace,9,373.09,3357.81
+2026-05-12,1790,Hogar,Este,Online,8,,2285.33
+2026-05-02,1126,Deportes,Norte,Online,10,223.21,2232.1
+2026-05-10,1392,Hogar,Centro,Tienda física,12,217.49,2609.88
+2026-05-30,1907,Deportes,Norte,Online,10,240.27,2402.7
+2026-05-04,1640,Electrónica,Sur,Marketplace,1,33.92,33.92
+2026-05-14,1057,Alimentación,Centro,Tienda física,2,151.25,302.5
+2026-05-31,1633,Hogar,Oeste,Tienda física,9,292.02,2628.18
+2026-05-16,1512,Alimentación,Sur,Online,8,88.22,705.76
+2026-05-15,1750,Electrónica,Sur,Online,14,89.4,1251.6
+2026-05-08,1801,Electrónica,Norte,Online,3,13.94,41.82
+2026-05-14,1095,Electrónica,Oeste,Marketplace,8,180.62,1444.96
+2026-05-23,1637,Alimentación,Norte,Online,12,354.27,4251.24
+2026-05-28,1117,Alimentación,Este,Online,1,30.24,30.24
+2026-05-25,1559,Alimentación,,Marketplace,10,84.54,845.4
+2026-05-30,1600,Electrónica,Norte,Tienda física,4,130.93,523.72
+2026-05-08,1487,Deportes,Centro,Online,3,295.37,886.11
+2026-05-21,1236,Ropa,,Online,6,259.85,1559.1
+2026-05-16,1884,Ropa,Norte,Marketplace,7,172.22,1205.54
+2026-05-13,1896,Electrónica,Centro,Online,4,306.04,1224.16
+2026-05-18,1271,Alimentación,Este,Tienda física,7,247.76,1734.32
+2026-05-15,1188,Electrónica,Centro,Tienda física,9,359.46,3235.14
+2026-05-21,1998,Hogar,Este,Online,11,329.03,3619.33
+2026-05-24,1703,Alimentación,Oeste,Tienda física,2,108.6,217.2
+2026-05-26,1446,Electrónica,Este,Online,11,115.86,1274.46
+2026-05-25,1580,Hogar,Centro,Online,3,58.89,176.67
+2026-05-28,1789,Electrónica,Oeste,Tienda física,5,141.42,707.1
+2026-05-28,1860,Ropa,Este,Marketplace,3,399.82,1199.46
+2026-05-28,1246,Hogar,Centro,Tienda física,11,168.24,1850.64
+2026-05-13,1962,Ropa,Sur,Tienda física,8,95.99,767.92
+2026-05-09,1075,Hogar,Norte,Online,12,307.37,3688.44
+2026-05-29,1153,Hogar,Norte,Online,10,221.56,2215.6
+2026-05-15,1655,Hogar,Sur,Online,8,68.34,546.72
+2026-05-13,1434,Alimentación,Sur,Online,8,158.47,1267.76
+2026-05-01,1996,Hogar,Centro,Online,12,171.64,2059.68
+2026-05-25,1085,Hogar,Norte,Online,12,303.99,3647.88
+2026-05-07,1696,Hogar,Oeste,Online,9,18.06,162.54
+2026-05-09,1284,Ropa,Norte,Online,4,,942.99
+2026-05-24,1973,Ropa,Centro,Tienda física,5,211.86,1059.3
+2026-05-01,1219,Deportes,,Marketplace,5,114.85,574.25
+2026-05-12,1068,Hogar,Este,Online,8,255.09,2040.72
+2026-05-08,1046,Electrónica,Centro,Marketplace,7,197.93,1385.51
+2026-05-24,1093,Hogar,Norte,Marketplace,9,151.07,1359.63
+2026-05-31,1749,Ropa,Centro,Online,14,380.19,5322.66
+2026-05-11,1957,Deportes,Sur,Tienda física,8,256.54,2052.32
+2026-05-19,1452,Electrónica,Centro,Tienda física,2,60.68,121.36
+2026-05-17,1203,Electrónica,Norte,Tienda física,10,228.44,2284.4
+2026-05-08,1911,Ropa,Este,Online,12,314.49,3773.88
+2026-05-03,1217,Hogar,Oeste,Tienda física,4,286.31,1145.24
+2026-05-03,1473,Deportes,Sur,Online,6,77.11,462.66
+2026-05-01,1431,Electrónica,Norte,Tienda física,12,389.24,4670.88
+2026-05-27,1340,Alimentación,Norte,Tienda física,2,185.04,370.08
+2026-05-05,1550,Electrónica,Sur,Tienda física,7,72.02,504.14
+2026-05-10,1611,Alimentación,Este,Tienda física,3,80.28,240.84
+2026-05-07,1288,Electrónica,Norte,Tienda física,13,48.31,628.03
+2026-05-26,1253,Electrónica,Sur,Online,3,323.37,970.11
+2026-05-09,1733,Alimentación,Norte,Online,11,57.59,633.49
+2026-05-28,1356,Deportes,Centro,Marketplace,2,58.8,117.6
+2026-05-07,1022,Deportes,Norte,Online,11,341.68,3758.48
+2026-05-09,1761,Hogar,Sur,Online,8,144.4,1155.2
+2026-05-08,1521,Deportes,Norte,Online,6,22.03,132.18
+2026-05-12,1757,Electrónica,Este,Online,1,30.24,30.24
+2026-05-02,1836,Deportes,Centro,Marketplace,12,65.45,785.4
+2026-05-01,1099,Hogar,Sur,Tienda física,1,93.22,93.22
+2026-05-16,1801,Alimentación,Norte,Marketplace,7,269.41,1885.87
+2026-05-23,1179,Alimentación,Oeste,Tienda física,8,71.36,570.88
+2026-05-23,1222,Alimentación,Centro,Tienda física,5,56.36,281.8
+2026-05-30,1905,Hogar,Norte,Online,12,308.24,3698.88
+2026-05-24,1761,Hogar,Oeste,Tienda física,11,271.71,2988.81
+2026-05-05,1658,Alimentación,Centro,Online,5,179.78,898.9
+2026-05-03,1441,Electrónica,Norte,Marketplace,4,224.23,896.92
+2026-05-12,1607,Deportes,Oeste,Marketplace,14,131.67,1843.38
+2026-05-08,1768,Alimentación,Oeste,Online,6,198.18,1189.08
+2026-05-22,1324,Electrónica,Este,Marketplace,14,207.6,2906.4
+2026-05-27,1515,Alimentación,Norte,Marketplace,6,161.02,966.12
+2026-05-03,1015,Hogar,Norte,Tienda física,3,363.56,1090.68
+2026-05-01,1791,Alimentación,Centro,Online,9,16.26,146.34
+2026-05-03,1335,Alimentación,,Tienda física,12,,3329.08
+2026-05-05,1758,Electrónica,Oeste,Tienda física,11,58.51,643.61
+2026-05-15,1257,Hogar,Este,Online,14,321.04,4494.56
+2026-05-14,1496,Deportes,Oeste,Online,7,250.21,1751.47
+2026-05-03,1987,Ropa,Este,Tienda física,1,338.88,338.88
+2026-05-01,1895,Hogar,Sur,Online,13,48.03,624.39
+2026-05-05,1159,Ropa,Norte,Tienda física,7,,2346.25
+2026-05-26,1474,Hogar,Centro,Marketplace,5,205.42,1027.1
+2026-05-23,1851,Hogar,Sur,Marketplace,5,285.42,1427.1
+2026-05-31,1663,Hogar,Centro,Online,14,218.37,3057.18
+2026-05-14,1907,Electrónica,Sur,Marketplace,13,220.89,2871.57
+2026-05-07,1689,Alimentación,Norte,Online,2,177.54,355.08
+2026-05-27,1674,Electrónica,Norte,Online,4,130.45,521.8
+2026-05-09,1379,Electrónica,Este,Tienda física,12,198.08,2376.96
+2026-05-15,1544,Electrónica,Centro,Online,6,56.21,337.26
+2026-05-15,1928,Electrónica,Norte,Online,10,384.99,3849.9
+2026-05-26,1956,Hogar,Centro,Tienda física,11,288.62,3174.82
+2026-05-10,1690,Hogar,Este,Online,7,381.46,2670.22
+2026-05-28,1426,Alimentación,Centro,Online,11,98.42,1082.62
+2026-05-13,1612,Electrónica,Sur,Tienda física,5,352.94,1764.7
+2026-05-19,1267,Deportes,Centro,Tienda física,9,325.43,2928.87
+2026-05-31,1834,Alimentación,Oeste,Tienda física,3,274.09,822.27
+2026-05-07,1576,Ropa,Sur,Online,1,253.76,253.76
+2026-05-17,1416,Deportes,Norte,Online,4,133.45,533.8
+2026-05-20,1167,Deportes,Centro,Online,9,328.4,2955.6
+2026-05-29,1841,Electrónica,,Online,4,205.59,822.36
+2026-05-04,1042,Ropa,Norte,Tienda física,2,37.65,75.3
+2026-05-30,1555,Deportes,Oeste,Online,10,132.02,1320.2
+2026-05-05,1284,Alimentación,Centro,Online,14,374.77,5246.78
+2026-05-23,1396,Electrónica,Centro,Tienda física,14,341.77,4784.78
+2026-05-07,1011,Alimentación,,Tienda física,5,392.94,1964.7
+2026-05-13,1606,Alimentación,Oeste,Tienda física,3,,754.22
+2026-05-15,1301,Alimentación,Este,Online,13,106.53,1384.89
+2026-05-11,1897,Alimentación,Sur,Online,12,73.5,882.0
+2026-05-29,1252,Alimentación,Sur,Online,13,82.9,1077.7
+2026-05-04,1498,Electrónica,Oeste,Online,9,17.72,159.48
+2026-05-13,1753,Electrónica,Oeste,Tienda física,4,162.37,649.48
+2026-05-07,1034,Hogar,Norte,Marketplace,6,,986.55
+2026-05-27,1726,Deportes,Centro,Tienda física,2,170.55,341.1
+2026-05-19,1848,Ropa,Oeste,Tienda física,6,374.65,2247.9
+2026-05-22,1089,Hogar,Este,Online,3,177.91,533.73
+2026-05-28,1775,Alimentación,Este,Tienda física,12,352.41,4228.92
+2026-05-02,1604,Hogar,Este,Online,12,246.15,2953.8
+2026-05-10,1921,Alimentación,Norte,Tienda física,9,,1550.93
+2026-05-13,1969,Deportes,Norte,Tienda física,11,148.78,1636.58
+2026-05-30,1601,Hogar,Norte,Online,2,42.73,85.46
+2026-05-25,1417,Hogar,Norte,Online,12,140.05,1680.6
+2026-05-21,1114,Ropa,Este,Marketplace,12,274.24,3290.88
+2026-05-06,1616,Hogar,Este,Online,9,38.12,343.08
+2026-05-28,1902,Ropa,Norte,Online,5,90.11,450.55
+2026-05-28,1195,Ropa,Centro,Online,8,158.76,1270.08
+2026-05-12,1825,Hogar,Sur,Tienda física,2,393.0,786.0
+2026-05-12,1500,Electrónica,Centro,Tienda física,6,316.1,1896.6
+2026-05-20,1625,Electrónica,,Tienda física,3,296.06,888.18
+2026-05-30,1492,Hogar,Norte,Online,12,55.31,663.72
+2026-05-30,1074,Ropa,Este,Tienda física,12,314.59,3775.08
+2026-05-11,1412,Ropa,Norte,Online,14,316.25,4427.5
+2026-05-26,1375,Alimentación,Este,Marketplace,10,,2559.27
+2026-05-23,1419,Alimentación,Oeste,Tienda física,5,396.24,1981.2
+2026-05-28,1728,Electrónica,Sur,Online,12,136.85,1642.2
+2026-05-25,1276,Deportes,Este,Online,8,377.1,3016.8
+2026-05-07,1760,Hogar,Sur,Online,10,366.75,3667.5
+2026-05-30,1675,Alimentación,Norte,Online,14,,2071.18
+2026-05-01,1393,Hogar,Oeste,Online,1,185.55,185.55
+2026-05-01,1868,Deportes,Sur,Tienda física,5,391.07,1955.35
+2026-05-25,1456,Alimentación,Este,Tienda física,3,50.22,150.66
+2026-05-27,1919,Alimentación,Este,Online,4,223.64,894.56
+2026-05-30,1191,Alimentación,,Online,2,391.79,783.58
+2026-05-25,1738,Electrónica,Norte,Online,9,226.64,2039.76
+2026-05-20,1688,Electrónica,Este,Marketplace,3,84.03,252.09
+2026-05-13,1098,Alimentación,Oeste,Online,2,237.05,474.1
+2026-05-09,1547,Hogar,Sur,Tienda física,10,89.73,897.3
+2026-05-03,1977,Alimentación,,Marketplace,11,212.68,2339.48
+2026-05-07,1998,Electrónica,Oeste,Tienda física,9,,2570.43
+2026-05-06,1095,Hogar,Oeste,Marketplace,7,246.14,1722.98
+2026-05-08,1663,Ropa,Oeste,Online,6,211.55,1269.3
+2026-05-27,1662,Hogar,,Marketplace,1,298.66,298.66
+2026-05-09,1189,Hogar,Centro,Online,5,255.97,1279.85
+2026-05-30,1735,Hogar,Oeste,Online,12,224.35,2692.2
+2026-05-05,1036,Hogar,Oeste,Tienda física,11,,1447.15
+2026-05-01,1779,Hogar,Norte,Marketplace,14,66.14,925.96
+2026-05-19,1368,Ropa,Norte,Marketplace,11,242.19,2664.09
+2026-05-10,1694,Alimentación,Este,Online,3,77.12,231.36
+2026-05-12,1524,Electrónica,Norte,Online,1,370.95,370.95
+2026-05-24,1278,Hogar,Este,Marketplace,4,36.65,146.6
+2026-05-15,1216,Hogar,Norte,Online,13,177.85,2312.05
+2026-05-27,1866,Alimentación,Sur,Tienda física,2,281.36,562.72
+2026-05-22,1872,Hogar,Oeste,Marketplace,2,188.63,377.26
+2026-05-24,1797,Alimentación,Centro,Tienda física,3,45.92,137.76
+2026-05-09,1272,Deportes,Norte,Online,8,225.82,1806.56
+2026-05-20,1880,Ropa,Este,Tienda física,8,260.24,2081.92
+2026-05-17,1061,Electrónica,Centro,Online,12,284.48,3413.76
+2026-05-30,1595,Ropa,Norte,Marketplace,7,155.57,1088.99
+2026-05-17,1879,Ropa,Centro,Tienda física,6,229.83,1378.98
+2026-05-26,1728,Hogar,Sur,Marketplace,9,185.77,1671.93
+2026-05-20,1341,Deportes,Sur,Online,4,272.1,1088.4
+2026-05-12,1396,Electrónica,,Marketplace,12,,711.35
+2026-05-30,1698,Electrónica,Norte,Online,1,215.04,215.04
+2026-05-07,1018,Ropa,Oeste,Online,8,107.31,858.48
+2026-05-02,1176,Alimentación,Centro,Online,7,10.79,75.53
+2026-05-03,1611,Hogar,Norte,Tienda física,7,77.89,545.23
+2026-05-17,1395,Electrónica,Oeste,Tienda física,3,,641.63
+2026-05-05,1444,Deportes,,Marketplace,4,185.14,740.56
+2026-05-17,1232,Alimentación,Norte,Online,10,248.78,2487.8
+2026-05-24,1914,Electrónica,Centro,Online,9,93.1,837.9
+2026-05-17,1075,Alimentación,Este,Tienda física,6,376.23,2257.38
+2026-05-27,1264,Alimentación,Oeste,Online,5,12.61,63.05
+2026-05-17,1454,Ropa,Oeste,Tienda física,3,311.2,933.6
+2026-05-02,1795,Electrónica,Sur,Marketplace,9,253.83,2284.47
+2026-05-02,1717,Electrónica,Centro,Marketplace,5,155.69,778.45
+2026-05-28,1734,Electrónica,Centro,Marketplace,5,29.69,148.45
+2026-05-22,1383,Alimentación,Oeste,Tienda física,14,254.72,3566.08
+2026-05-23,1563,Deportes,Centro,Online,4,160.39,641.56
+2026-05-05,1850,Electrónica,Oeste,Online,14,375.14,5251.96
+2026-05-01,1505,Electrónica,Este,Tienda física,4,221.38,885.52
+2026-05-01,1366,Electrónica,Oeste,Marketplace,12,376.46,4517.52
+2026-05-19,1143,Electrónica,Este,Online,1,95.99,95.99
+2026-05-30,1884,Alimentación,Este,Online,7,293.03,2051.21
+2026-05-02,1068,Ropa,Centro,Online,9,250.73,2256.57
+2026-05-21,1098,Ropa,Este,Tienda física,3,298.37,895.11
+2026-05-12,1395,Electrónica,Norte,Marketplace,12,93.72,1124.64
+2026-05-26,1024,Hogar,Norte,Tienda física,13,269.35,3501.55
+2026-05-06,1947,Ropa,Este,Online,2,204.24,408.48
+2026-05-23,1890,Alimentación,Oeste,Marketplace,3,299.7,899.1
+2026-05-04,1468,Electrónica,Este,Tienda física,1,137.55,137.55
+2026-05-23,1483,Alimentación,Oeste,Online,6,357.12,2142.72
+2026-05-11,1564,Hogar,Este,Online,11,42.88,471.68
+2026-05-24,1150,Electrónica,Oeste,Online,11,324.8,3572.8
+2026-05-27,1143,Ropa,Sur,Online,7,345.91,2421.37
+2026-05-17,1568,Deportes,Este,Marketplace,11,328.73,3616.03
+2026-05-31,1038,Deportes,Oeste,Tienda física,11,209.96,2309.56
+2026-05-06,1108,Hogar,Centro,Marketplace,2,180.97,361.94
+2026-05-24,1692,Hogar,Este,Online,8,398.54,3188.32
+2026-05-05,1041,Deportes,Norte,Online,14,99.38,1391.32
+2026-05-20,1185,Hogar,Norte,Tienda física,6,223.28,1339.68
+2026-05-02,1934,Electrónica,Norte,Online,14,271.56,3801.84
+2026-05-06,1397,Deportes,Oeste,Tienda física,4,283.34,1133.36
+2026-05-22,1222,Electrónica,Sur,Marketplace,5,89.57,447.85
+2026-05-11,1633,Hogar,Este,Tienda física,8,265.06,2120.48
+2026-05-31,1132,Electrónica,Este,Tienda física,14,329.16,4608.24
+2026-05-16,1162,Electrónica,Norte,Online,3,29.51,88.53
+2026-05-16,1214,Ropa,Sur,Online,3,365.49,1096.47
+2026-05-01,1732,Alimentación,Sur,Online,14,21.51,301.14
+2026-05-09,1234,Ropa,Sur,Tienda física,14,148.83,2083.62
+2026-05-28,1842,Electrónica,Norte,Online,11,16.17,177.87
+2026-05-27,1657,Electrónica,Centro,Online,4,40.09,160.36
+2026-05-06,1750,Hogar,Norte,Tienda física,1,365.36,365.36
+2026-05-16,1587,Deportes,,Online,9,148.4,1335.6
+2026-05-29,1008,Hogar,Sur,Online,8,175.66,1405.28
+2026-05-03,1073,Hogar,Centro,Online,8,93.98,751.84
+2026-05-20,1953,Deportes,Oeste,Marketplace,14,242.87,3400.18
+2026-05-28,1491,Hogar,Oeste,Tienda física,10,241.97,2419.7
+2026-05-27,1912,Electrónica,Oeste,Tienda física,6,155.16,930.96
+2026-05-04,1252,Ropa,Este,Online,7,139.88,979.16
+2026-05-19,1229,Ropa,Este,Marketplace,6,355.14,2130.84
+2026-05-26,1518,Ropa,Este,Tienda física,9,159.48,1435.32
+2026-05-03,1173,Ropa,Este,Online,3,202.47,607.41
+2026-05-31,1652,Alimentación,Norte,Marketplace,14,120.49,1686.86
+2026-05-19,1167,Ropa,Sur,Online,3,316.84,950.52
+2026-05-20,1169,Hogar,Oeste,Tienda física,3,165.0,495.0
+2026-05-07,1392,Hogar,Este,Tienda física,10,210.31,2103.1
+2026-05-20,1945,Ropa,Centro,Online,3,108.81,326.43
+2026-05-09,1794,Alimentación,Oeste,Marketplace,9,395.19,3556.71
+2026-05-01,1633,Hogar,,Tienda física,12,123.68,1484.16
+2026-05-08,1193,Ropa,Sur,Tienda física,4,310.59,1242.36
+2026-05-07,1516,Alimentación,Sur,Online,13,176.72,2297.36
+2026-05-18,1028,Hogar,Sur,Online,7,90.42,632.94
+2026-05-08,1164,Hogar,Este,Online,14,321.89,4506.46
+2026-05-01,1421,Hogar,Centro,Tienda física,9,140.11,1260.99
+2026-05-11,1338,Hogar,Sur,Online,11,347.43,3821.73
+2026-05-28,1647,Alimentación,Oeste,Tienda física,12,366.95,4403.4
+2026-05-25,1495,Electrónica,Sur,Tienda física,7,345.33,2417.31
+2026-05-25,1364,Ropa,Oeste,Online,9,23.65,212.85
+2026-05-18,1832,Electrónica,Oeste,Tienda física,12,317.08,3804.96
+2026-05-23,1341,Alimentación,Sur,Online,3,170.42,511.26
+2026-05-31,1499,Ropa,Este,Marketplace,4,350.75,1403.0
+2026-05-30,1656,Deportes,Sur,Tienda física,14,258.8,3623.2
+2026-05-10,1510,Hogar,Norte,Online,8,,1564.15
+2026-05-03,1326,Alimentación,Este,Online,6,204.78,1228.68
+2026-05-07,1216,Deportes,Norte,Online,5,218.66,1093.3
+2026-05-28,1300,Alimentación,Sur,Tienda física,13,66.31,862.03
+2026-05-16,1131,Deportes,Este,Tienda física,4,315.76,1263.04
+2026-05-26,1803,Ropa,Este,Tienda física,8,173.56,1388.48
+2026-05-16,1069,Hogar,Oeste,Online,1,205.03,205.03
+2026-05-25,1251,Ropa,Norte,Online,14,316.19,4426.66
+2026-05-20,1414,Electrónica,Oeste,Online,9,243.55,2191.95
+2026-05-28,1786,Hogar,Sur,Tienda física,1,88.43,88.43
+2026-05-17,1444,Hogar,Sur,Marketplace,8,240.19,1921.52
+2026-05-02,1875,Ropa,Centro,Online,4,168.98,675.92
+2026-05-01,1181,Hogar,Norte,Online,9,,3083.97
+2026-05-16,1166,Deportes,Este,Tienda física,14,21.04,294.56
+2026-05-30,1090,Hogar,Este,Marketplace,11,91.91,1011.01
+2026-05-12,1713,Alimentación,Sur,Tienda física,5,119.6,598.0
+2026-05-05,1857,Alimentación,Sur,Marketplace,3,288.05,864.15
+2026-05-05,1530,Deportes,Sur,Online,9,14.48,130.32
+2026-05-27,1038,Hogar,Centro,Online,11,169.42,1863.62
+2026-05-23,1125,Alimentación,Este,Marketplace,14,370.37,5185.18
+2026-05-09,1450,Deportes,Sur,Tienda física,14,53.63,750.82
+2026-05-09,1172,Deportes,Este,Online,9,211.41,1902.69
+2026-05-03,1652,Electrónica,Oeste,Tienda física,4,316.74,1266.96
+2026-05-19,1753,Ropa,Norte,Marketplace,11,377.59,4153.49
+2026-05-16,1219,Ropa,Este,Tienda física,4,301.24,1204.96
+2026-05-16,1637,Electrónica,Este,Tienda física,12,291.02,3492.24
+2026-05-03,1057,Hogar,Centro,Online,8,332.33,2658.64
+2026-05-20,1659,Alimentación,Sur,Tienda física,2,184.02,368.04
+2026-05-24,1475,Alimentación,Sur,Tienda física,9,324.28,2918.52
+2026-05-22,1455,Electrónica,Sur,Marketplace,13,13.11,170.43
+2026-05-24,1828,Deportes,Oeste,Marketplace,14,370.58,5188.12
+2026-05-01,1894,Hogar,Sur,Marketplace,6,182.89,1097.34
+2026-05-24,1360,Alimentación,Este,Online,9,225.82,2032.38
+2026-05-20,1934,Deportes,Centro,Tienda física,8,109.4,875.2
+2026-05-11,1000,Hogar,Oeste,Tienda física,7,299.59,2097.13
+2026-05-17,1386,Ropa,Este,Tienda física,13,,1985.04
+2026-05-08,1972,Alimentación,Centro,Tienda física,14,350.33,4904.62
+2026-05-04,1347,Ropa,Este,Marketplace,1,332.97,332.97
+2026-05-06,1189,Electrónica,Este,Tienda física,14,94.26,1319.64
+2026-05-08,1504,Alimentación,Norte,Tienda física,12,325.64,3907.68
+2026-05-20,1190,Ropa,,Online,3,316.68,950.04
+2026-05-30,1507,Alimentación,Norte,Online,11,256.56,2822.16
+2026-05-03,1368,Ropa,Sur,Tienda física,14,155.67,2179.38
+2026-05-16,1408,Deportes,Norte,Tienda física,2,115.88,231.76
+2026-05-30,1823,Electrónica,Oeste,Online,5,100.4,502.0
+2026-05-25,1928,Deportes,Sur,Online,5,134.26,671.3
+2026-05-03,1933,Alimentación,Norte,Tienda física,5,362.39,1811.95
+2026-05-25,1116,Electrónica,Norte,Online,4,40.28,161.12
+2026-05-29,1133,Hogar,Norte,Online,5,333.26,1666.3
+2026-05-18,1057,Deportes,Este,Online,3,146.07,438.21
+2026-05-14,1555,Hogar,Oeste,Online,12,213.42,2561.04
+2026-05-18,1684,Electrónica,Sur,Online,1,319.85,319.85
+2026-05-02,1671,Hogar,Este,Online,5,354.91,1774.55
+2026-05-22,1172,Hogar,Oeste,Online,13,144.46,1877.98
+2026-05-03,1828,Alimentación,Norte,Marketplace,9,190.12,1711.08
+2026-05-16,1814,Alimentación,Sur,Tienda física,13,171.66,2231.58
+2026-05-29,1148,Ropa,,Tienda física,9,15.17,136.53
+2026-05-09,1079,Electrónica,Este,Online,4,125.42,501.68
+2026-05-04,1885,Hogar,Sur,Online,3,189.08,567.24
+2026-05-01,1212,Ropa,Este,Tienda física,1,170.33,170.33
+2026-05-04,1202,Electrónica,Sur,Online,2,291.55,583.1
+2026-05-01,1763,Deportes,Este,Tienda física,8,160.07,1280.56
+2026-05-14,1228,Alimentación,Norte,Tienda física,1,200.86,200.86
+2026-05-21,1675,Alimentación,Norte,Tienda física,8,177.55,1420.4
+2026-05-16,1226,Alimentación,Norte,Online,13,298.84,3884.92
+2026-05-20,1658,Hogar,Centro,Online,7,346.56,2425.92
+2026-05-24,1531,Alimentación,Oeste,Tienda física,8,217.44,1739.52
+2026-05-08,1440,Hogar,Norte,Online,12,317.88,3814.56
+2026-05-07,1401,Electrónica,Norte,Tienda física,6,125.75,754.5
+2026-05-03,1046,Ropa,Oeste,Tienda física,12,221.13,2653.56
+2026-05-17,1232,Hogar,Norte,Marketplace,14,144.64,2024.96
+2026-05-01,1304,Alimentación,Sur,Online,9,171.54,1543.86
+2026-05-16,1525,Electrónica,,Marketplace,3,295.64,886.92
+2026-05-12,1142,Electrónica,Sur,Tienda física,10,353.85,3538.5
+2026-05-27,1414,Ropa,Oeste,Online,4,57.38,229.52
+2026-05-19,1512,Ropa,,Online,13,257.51,3347.63
+2026-05-22,1372,Alimentación,Sur,Tienda física,6,237.04,1422.24
+2026-05-23,1565,Ropa,Norte,Online,8,56.18,449.44
+2026-05-22,1885,Hogar,Sur,Online,5,92.64,463.2
+2026-05-14,1258,Hogar,Centro,Online,3,131.29,393.87
+2026-05-30,1655,Hogar,Centro,Marketplace,6,75.1,450.6
+2026-05-06,1470,Alimentación,Oeste,Tienda física,4,105.05,420.2
+2026-05-06,1952,Ropa,Norte,Tienda física,9,114.36,1029.24
+2026-05-13,1970,Alimentación,Centro,Online,13,140.91,1831.83
+2026-05-19,1011,Ropa,Centro,Online,3,302.26,906.78
+2026-05-22,1329,Ropa,Oeste,Tienda física,4,233.05,932.2
+2026-05-08,1735,Deportes,Centro,Tienda física,7,394.64,2762.48
+2026-05-27,1783,Electrónica,Centro,Online,7,171.75,1202.25
+2026-05-27,1967,Electrónica,Oeste,Tienda física,12,304.01,3648.12
+2026-05-02,1357,Alimentación,Este,Marketplace,12,349.87,4198.44
+2026-05-21,1971,Electrónica,Sur,Tienda física,4,274.8,1099.2
+2026-05-30,1407,Alimentación,Norte,Tienda física,6,170.63,1023.78
+2026-05-01,1667,Ropa,Oeste,Marketplace,12,303.9,3646.8
+2026-05-28,1372,Deportes,Sur,Online,13,89.43,1162.59
+2026-05-15,1007,Alimentación,Centro,Tienda física,3,137.75,413.25
+2026-05-01,1121,Hogar,,Marketplace,6,223.21,1339.26
+2026-05-05,1347,Deportes,Oeste,Online,12,234.41,2812.92
+2026-05-28,1675,Ropa,Norte,Tienda física,2,18.64,37.28
+2026-05-29,1089,Deportes,Sur,Tienda física,8,378.59,3028.72
+2026-05-16,1647,Electrónica,Norte,Tienda física,2,281.68,563.36
+2026-05-19,1697,Hogar,Oeste,Tienda física,11,203.32,2236.52
+2026-05-04,1315,Ropa,Oeste,Marketplace,7,373.92,2617.44
+2026-05-03,1177,Hogar,Centro,Tienda física,9,181.25,1631.25
+2026-05-17,1539,Electrónica,Este,Online,1,392.37,392.37
+2026-05-17,1731,Alimentación,Centro,Marketplace,8,209.79,1678.32
+2026-05-12,1868,Alimentación,Centro,Online,7,54.57,381.99
+2026-05-28,1040,Deportes,Sur,Online,6,308.27,1849.62
+2026-05-30,1739,Electrónica,Centro,Tienda física,6,274.77,1648.62
+2026-05-29,1703,Hogar,Sur,Tienda física,6,311.46,1868.76
+2026-05-14,1922,Hogar,Sur,Online,9,381.06,3429.54
+2026-05-21,1501,Ropa,Oeste,Marketplace,2,312.83,625.66
+2026-05-06,1958,Ropa,Sur,Tienda física,1,248.42,248.42
+2026-05-03,1144,Ropa,Oeste,Tienda física,13,344.35,4476.55
+2026-05-28,1200,Alimentación,Oeste,Online,12,272.57,3270.84
+2026-05-09,1928,Hogar,Este,Marketplace,6,169.17,1015.02
+2026-05-05,1723,Hogar,Sur,Marketplace,10,355.39,3553.9
+2026-05-24,1460,Electrónica,Este,Tienda física,11,96.54,1061.94
+2026-05-29,1731,Electrónica,Este,Online,8,288.71,2309.68
+2026-05-17,1751,Electrónica,Este,Online,3,353.81,1061.43
+2026-05-14,1924,Deportes,Este,Online,12,295.21,3542.52
+2026-05-21,1908,Electrónica,Norte,Online,10,281.94,2819.4
+2026-05-31,1557,Electrónica,Este,Online,1,303.53,303.53
+2026-05-03,1546,Ropa,Norte,Marketplace,9,191.37,1722.33
+2026-05-28,1252,Alimentación,Oeste,Tienda física,13,350.93,4562.09
+2026-05-01,1389,Deportes,Oeste,Online,13,89.34,1161.42
+2026-05-20,1593,Alimentación,Este,Online,1,59.68,59.68
+2026-05-31,1882,Alimentación,Este,Online,3,121.35,364.05
+2026-05-29,1255,Hogar,,Online,8,217.32,1738.56
+2026-05-21,1708,Electrónica,Centro,Online,14,209.12,2927.68
+2026-05-23,1814,Deportes,Centro,Online,3,330.03,990.09
+2026-05-01,1920,Alimentación,Centro,Tienda física,13,167.78,2181.14
+2026-05-03,1449,Hogar,Norte,Marketplace,4,198.89,795.56
+2026-05-18,1009,Alimentación,Norte,Online,8,15.21,121.68
+2026-05-25,1823,Alimentación,Este,Online,1,169.8,169.8
+2026-05-10,1797,Hogar,Sur,Marketplace,13,262.63,3414.19
+2026-05-31,1241,Deportes,Este,Online,13,16.05,208.65
+2026-05-22,1250,Deportes,Sur,Online,6,119.54,717.24
+2026-05-26,1876,Hogar,Este,Marketplace,1,91.1,91.1
+2026-05-03,1004,Alimentación,Oeste,Online,14,26.37,369.18
+2026-05-08,1118,Electrónica,Oeste,Tienda física,1,196.91,196.91
+2026-05-14,1800,Alimentación,Este,Tienda física,14,80.87,1132.18
+2026-05-24,1373,Electrónica,Centro,Online,8,299.8,2398.4
+2026-05-18,1064,Hogar,Este,Online,11,340.69,3747.59
+2026-05-15,1145,Deportes,Centro,Tienda física,4,222.78,891.12
+2026-05-22,1223,Hogar,Norte,Online,12,392.87,4714.44
+2026-05-23,1238,Hogar,,Online,1,,350.51
+2026-05-02,1176,Ropa,Oeste,Tienda física,10,,3179.02
+2026-05-03,1987,Ropa,Este,Tienda física,1,338.88,338.88
+2026-05-30,1555,Deportes,Oeste,Online,10,132.02,1320.2
+2026-05-24,1531,Alimentación,Oeste,Tienda física,8,217.44,1739.52
+2026-05-03,1473,Deportes,Sur,Online,6,77.11,462.66
+2026-05-08,1735,Deportes,Centro,Tienda física,7,394.64,2762.48
+2026-05-16,1814,Alimentación,Sur,Tienda física,13,171.66,2231.58
+2026-05-15,1257,Hogar,Este,Online,14,321.04,4494.56
+2026-05-24,1278,Hogar,Este,Marketplace,4,36.65,146.6
+2026-05-12,1068,Hogar,Este,Online,8,255.09,2040.72
+2026-05-03,1073,Hogar,Centro,Online,8,93.98,751.84
