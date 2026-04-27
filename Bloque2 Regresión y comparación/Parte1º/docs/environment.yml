@@ -1,0 +1,38 @@
+name: data-analyst-mayo-2026
+channels:
+  - conda-forge
+  - defaults
+ 
+dependencies:
+  # Python
+  - python=3.11
+ 
+  # Core científico
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - scipy=1.13.0
+ 
+  # Visualización
+  - matplotlib=3.8.4
+  - seaborn=0.13.2
+  - plotly=5.22.0
+ 
+  # Machine Learning
+  - scikit-learn=1.4.2
+  - statsmodels=0.14.2
+ 
+  # Jupyter
+  - jupyterlab=4.1.8
+  - ipykernel=6.29.4
+  - ipywidgets=8.1.2
+  - nbformat=5.10.4
+ 
+  # Utilidades
+  - tqdm=4.66.4
+  - python-dotenv=1.0.1
+ 
+  # Series temporales — vía pip porque conda-forge puede tener versiones desactualizadas
+  - pip
+  - pip:
+    - prophet==1.1.5
+    - pmdarima==2.0.4
