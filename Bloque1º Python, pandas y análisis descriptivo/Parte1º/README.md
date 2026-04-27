@@ -1,7 +1,15 @@
 # Bloque 1 - Parte 1: Python, Pandas y Análisis Descriptivo
 
 ## 📋 Descripción
-Esta parte introduce los conceptos fundamentales de Python y pandas para el análisis de datos. Se cubren estructuras de datos, manipulación básica de dataframes y análisis descriptivo introductorio.
+
+Esta parte introduce los conceptos fundamentales de Python y pandas para el análisis de datos. A través de un caso práctico con datos de ventas, aprendes a:
+
+- **Estructuras Python aplicadas**: Variables, listas, diccionarios, funciones y lógica condicional en contexto de análisis
+- **NumPy**: Operaciones vectorizadas y cálculos estadísticos eficientes
+- **Carga y exploración de datos**: Lectura de CSV, inspección de estructura, detección de problemas
+- **Limpieza de datos**: Eliminación de duplicados, conversión de tipos, imputación de valores faltantes, creación de variables derivadas
+- **Análisis descriptivo**: Cálculo de estadísticos, agregaciones por grupos, análisis multidimensional
+- **Visualización básica**: Histogramas, boxplots, gráficos de barras y series temporales con matplotlib
 
 ## 📁 Estructura del Proyecto
 

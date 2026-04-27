@@ -1,50 +1,99 @@
 # Guía Rápida - Bloque 1 Parte 2
 
-## 🎯 Objetivos de Aprendizaje
+## 🎯 Objetivo General
 
-1. Dominar técnicas avanzadas de manipulación de datos
-2. Realizar análisis descriptivo multivariante
-3. Crear visualizaciones complejas y personalizadas
+Al finalizar esta parte, dominarás **técnicas avanzadas de manipulación, agregación y visualización de datos**, permitiéndote realizar análisis multidimensionales y descubrir patrones complejos en datasets grandes.
 
-## 📚 Estructura de Contenidos
+## 📚 Contenidos Específicos
 
-### Módulo 1: Manipulación Avanzada con Pandas
-- Agrupamiento y agregación (groupby)
-- Joins y merges
-- Tratamiento de datos faltantes
-- Transformaciones avanzadas
+### 1. Manipulación Avanzada con Pandas
+- **GroupBy avanzado**: Agrupamientos múltiples, funciones custom en `agg()`
+- **Pivotes y melt**: Reestructuración de datos de forma amplia a larga y viceversa
+- **Joins y merges**: Combinación de múltiples fuentes con `merge()`, `join()`, `concat()`
+- **Duplicación y deduplicación**: Estrategias complejas de limpieza
+- **Ordenamiento multidimensional**: `sort_values()` con múltiples criterios
 
-### Módulo 2: Análisis Descriptivo Multivariante
-- Correlación y covarianza
-- Análisis multivariante exploratorio
-- Estadísticas por grupos
+### 2. Análisis de Correlación y Relaciones
+- **Matriz de correlaciones**: Pearson, Spearman, Kendall
+- **Covarianza**: Interpretación y aplicación
+- **Análisis bivariante**: Relaciones entre pares de variables
+- **Identificación de multicolinealidad**
+- **Visualización de dependencias**: Scatter plots, regressions plots
 
-### Módulo 3: Visualización Avanzada
-- Matplotlib y Seaborn avanzado
-- Gráficos interactivos
-- Dashboards simples
+### 3. Limpieza Avanzada de Datos
+- **Detección de outliers**: Z-score, IQR, métodos robustos
+- **Tratamiento de outliers**: Winsorización, transformaciones log
+- **Transformaciones no lineales**: Log, raíz cuadrada, potencias
+- **Normalización y estandarización**: Escalado min-max, z-score
+- **Manejo de desbalances**: En categorías y eventos
 
-## ⏱️ Temporalización Sugerida
+### 4. Segmentación y Perfiles
+- **Análisis por grupos**: Patrones en subconjuntos
+- **Segmentación de clientes**: RFM, cohortes, clustering descriptivo
+- **Comparación de perfiles**: Tablas cross-tab, chi-cuadrado descriptivo
+- **Análisis de tendencias**: Evolución temporal de segmentos
 
-- **Semana 1**: Manipulación Avanzada (10-12 horas)
-- **Semana 2**: Análisis Multivariante (10-12 horas)
-- **Semana 3**: Visualización Avanzada (8-10 horas)
+### 5. Visualización Avanzada
+- **Heatmaps**: Correlaciones y patrones complejos
+- **Violin plots y ridge plots**: Distribuciones por grupo
+- **Scatter plots multidimensionales**: Con tamaño y color como variables
+- **Faceted plots**: Múltiples gráficos en una grilla
+- **Visualización de series temporales multivariantes**
+- **Dashboards simples**: Múltiples visualizaciones coordinadas
 
-## 💡 Sugerencias Pedagógicas
+### 6. Reportes Automatizados
+- **Documentación de hallazgos**: Markdown + código ejecutable
+- **Generación de tablas de resumen**: Formatos claros y profesionales
+- **Conclusiones iterativas**: De hechos numéricos a interpretación
+- **Documentación de metodología**: Reproducibilidad y auditoría
 
-1. Revisar Bloque 1 Parte 1 antes de comenzar
-2. Practicar con datasets complejos
-3. Experimentar con diferentes técnicas de visualización
-4. Combinar técnicas en proyectos integradores
+## 📋 Tareas Prácticas Esperadas
 
-## 📊 Datos Disponibles
-
-Los datasets se encuentran en la carpeta `data/` y son reproducibles.
+1. **Análisis multidimensional**: Ventas cruzadas por región, categoría y canal
+2. **Perfiles de cliente**: Segmentación RFM con interpretación
+3. **Detección de anomalías**: Identificación de transacciones atípicas
+4. **Análisis de correlación**: Relaciones entre precio, cantidad e importe
+5. **Tendencias temporales**: Evolución de ventas y patrones estacionales
+6. **Dashboard resumen**: Múltiples visualizaciones coordinadas
 
 ## ✅ Criterios de Éxito
 
-Al finalizar esta parte, el estudiante debe ser capaz de:
-- Realizar manipulaciones complejas de datos
-- Analizar relaciones multivariantes
-- Crear visualizaciones profesionales
-- Interpretar análisis complejos
+Al finalizar, podrás:
+
+- [ ] Manipular estructuras de datos complejas (pivotes, joins, reshapes)
+- [ ] Calcular e interpretar correlaciones multivariantes
+- [ ] Detectar y tratar outliers de forma sistemática
+- [ ] Segmentar datos y comparar perfiles
+- [ ] Crear visualizaciones multidimensionales claras
+- [ ] Generar reportes automatizados reproducibles
+
+## 🔗 Referencias Rápidas
+
+```python
+# GroupBy múltiple
+df.groupby(['col1', 'col2']).agg({'col3': ['sum', 'mean']})
+
+# Pivote
+df.pivot_table(values='venta', index='region', columns='categoria', aggfunc='sum')
+
+# Merge
+merged = df1.merge(df2, on='clave', how='inner')
+
+# Correlación
+df.corr(method='pearson')
+
+# Outliers (IQR)
+Q1, Q3 = df[col].quantile([0.25, 0.75])
+IQR = Q3 - Q1
+outliers = (df[col] < Q1 - 1.5*IQR) | (df[col] > Q3 + 1.5*IQR)
+
+# Heatmap
+sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
+```
+
+## 💡 Recomendaciones
+
+1. **Revisa Bloque 1 Parte 1** antes de empezar: Los fundamentos son prerequisito
+2. **Experimenta con múltiples transformaciones** antes de elegir la final
+3. **Documenta cada decisión**: La limpieza y transformación debe ser trazable
+4. **Comunica hallazgos claramente**: Los números sin contexto no sirven

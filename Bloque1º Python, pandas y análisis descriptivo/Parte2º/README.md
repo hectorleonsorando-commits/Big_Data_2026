@@ -1,7 +1,15 @@
 # Bloque 1 - Parte 2: Python, Pandas y Análisis Descriptivo (Continuación)
 
 ## 📋 Descripción
-Esta es la segunda parte del Bloque 1, donde se profundiza en técnicas avanzadas de análisis descriptivo, manipulación compleja de datos y visualización avanzada.
+
+Esta es la segunda parte del Bloque 1, donde profundizas en técnicas avanzadas de manipulación y análisis de datos. Continuando con el caso de ventas, aprendes a:
+
+- **Manipulación avanzada con pandas**: Agrupamientos jerárquicos, joins/merges complejos, pivotes y reshapes
+- **Análisis multivariante**: Correlaciones, covarianzas, análisis de relaciones entre variables
+- **Limpieza avanzada**: Outliers, transformaciones no lineales, estandarización y normalización
+- **Análisis por subgrupos**: Segmentación, perfiles de clientes, análisis de cohortes
+- **Visualización avanzada**: Gráficos multidimensionales, heatmaps, scatter plots, violin plots
+- **Síntesis y storytelling**: Dashboards simples, reportes automatizados, narrativa de datos
 
 ## 📁 Estructura del Proyecto
 

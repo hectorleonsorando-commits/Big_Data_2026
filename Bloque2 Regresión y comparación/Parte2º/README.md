@@ -1,7 +1,19 @@
 # Bloque 2 - Parte 2: Regresión y Comparación (Continuación)
 
 ## 📋 Descripción
-Esta es la segunda parte del Bloque 2, donde se abordan técnicas avanzadas de regresión, modelos complejos y análisis estadísticos multivariantes.
+
+Esta es la segunda parte del Bloque 2, donde profundizas en técnicas avanzadas de modelado predictivo y análisis estadístico. Aprendes a:
+
+- **Regresión polinómica**: Capturar relaciones no lineales
+- **Regularización**: Ridge (L2), Lasso (L1), ElasticNet para evitar sobreajuste
+- **Selección de características**: Métodos automáticos y criterios de importancia
+- **Regresión robusta**: Modelos resistentes a outliers
+- **Regresión logística**: Predecir variables binarias (clasificación)
+- **Análisis discriminante**: Separación lineal de grupos
+- **Modelos complejos**: Interacciones, polinomios, transformaciones
+- **Ensambles simples**: Averaging, voting entre modelos
+- **Inferencia avanzada**: Intervalos de confianza, tests de hipótesis complejos
+- **Comunicación de resultados**: Informes estadísticos profesionales
 
 ## 📁 Estructura del Proyecto
 
