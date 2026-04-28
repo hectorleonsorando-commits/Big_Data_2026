@@ -1,0 +1,17 @@
+name: big_data_bloque3_parte1
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - pip
+  - pip:
+    - seaborn==0.13.2
+    - plotly==5.22.0
+    - scikit-learn==1.4.2
+    - statsmodels==0.14.2
