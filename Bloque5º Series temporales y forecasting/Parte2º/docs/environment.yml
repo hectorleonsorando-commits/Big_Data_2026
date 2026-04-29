@@ -1,0 +1,19 @@
+name: big_data_bloque5_parte2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - jupyterlab
+  - ipython
+  - pip
+  - pip:
+    - statsmodels>=0.12.0
+    - plotly>=5.0.0
